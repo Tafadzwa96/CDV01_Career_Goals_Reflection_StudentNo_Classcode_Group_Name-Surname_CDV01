@@ -16,12 +16,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
+- **Name:
+- **Date:
 - **Current Role/Position:**
-- **Field of Interest:**
+- **Field of Interest:Front End Developer**
 
-### Part 1: Self-Assessment Reflection
+### Part 1: Self-Assessment Reflection0
 
 1. **Skills Analysis**:
     
